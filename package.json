@@ -1,0 +1,14 @@
+{
+  "name": "homework-seven",
+  "version": "1.0.0",
+  "description": "This is a repo for my N215 homework six",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass scss/styles.scss css/styles.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.59.3"
+  }
+}
